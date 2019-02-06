@@ -1,0 +1,25 @@
+{
+  "name": "DragDropPOC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draggable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpd1208/DragDropPOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpd1208/DragDropPOC/issues"
+  },
+  "homepage": "https://github.com/dpd1208/DragDropPOC#readme",
+  "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta.8",
+    "window": "^4.2.6",
+    "yarn": "^1.13.0"
+  }
+}
