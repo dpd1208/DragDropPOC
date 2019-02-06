@@ -19,6 +19,7 @@
   "homepage": "https://github.com/dpd1208/DragDropPOC#readme",
   "dependencies": {
     "@shopify/draggable": "^1.0.0-beta.8",
+    "express": "^4.16.4",
     "window": "^4.2.6",
     "yarn": "^1.13.0"
   }
